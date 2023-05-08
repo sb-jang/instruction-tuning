@@ -1,0 +1,80 @@
+{"question_id": 1, "text": "시간 관리 기술을 향상시키려면 어떻게 해야 하나요?", "category": "generic"}
+{"question_id": 2, "text": "스트레스에 대처하는 가장 효과적인 방법은 무엇인가요?", "category": "generic"}
+{"question_id": 3, "text": "파이썬과 자바스크립트 프로그래밍 언어의 주요 차이점은 무엇인가요?", "category": "generic"}
+{"question_id": 4, "text": "재택근무 중 생산성을 높이려면 어떻게 해야 하나요?", "category": "generic"}
+{"question_id": 5, "text": "양자 컴퓨팅의 기본 사항에 대해 설명해 주시겠어요?", "category": "generic"}
+{"question_id": 6, "text": "식물성 단백질 공급원과 동물성 단백질 공급원의 차이점은 무엇인가요?", "category": "generic"}
+{"question_id": 7, "text": "비판적 사고력을 개발하려면 어떻게 해야 하나요?", "category": "generic"}
+{"question_id": 8, "text": "오늘날 교육 부문이 직면한 주요 과제는 무엇인가요?", "category": "generic"}
+{"question_id": 9, "text": "소비자 행동에 영향을 미치는 주요 요인은 무엇인가요?", "category": "generic"}
+{"question_id": 10, "text": "직장 내 갈등 해결을 위한 가장 효과적인 전략은 무엇인가요?", "category": "generic"}
+{"question_id": 11, "text": "일회용 플라스틱 병을 사용하는 것과 재사용 가능한 병을 사용하는 것이 환경과 인체 건강에 미치는 잠재적인 영향은 무엇인가요?", "category": "knowledge"}
+{"question_id": 12, "text": "포용적이고 접근성이 뛰어난 대중교통 시스템을 설계할 때 어떤 요소를 고려하나요?", "category": "knowledge"}
+{"question_id": 13, "text": "정부가 경제 불황에 대처하기 위해 재정 및 통화 정책을 어떻게 활용할 수 있을까요?", "category": "knowledge"}
+{"question_id": 14, "text": "언어와 문화적 장벽은 다문화 사회에서 사람들이 소통하고 관계를 형성하는 방식에 어떤 영향을 미칠까요?", "category": "knowledge"}
+{"question_id": 15, "text": "인공 지능을 사용하여 의료 서비스 제공의 품질과 효율성을 개선할 수 있는 시나리오를 설명하세요.", "category": "knowledge"}
+{"question_id": 16, "text": "CRISPR-Cas9 기술을 사용한 유전자 편집 과정을 설명하고, 이 기술의 잠재적 응용과 윤리적 의미에 대해 논의합니다.", "category": "knowledge"}
+{"question_id": 17, "text": "백신 접종은 개인과 지역사회를 감염병으로부터 보호하는 데 어떻게 작용하며, 집단 면역이란 무엇인가요?", "category": "knowledge"}
+{"question_id": 18, "text": "소셜 미디어 플랫폼은 사람들이 뉴스를 소비하고 공유하는 방식에 어떤 영향을 미치며, 잘못된 정보의 확산에 어떤 잠재적 영향을 미칠 수 있을까요?", "category": "knowledge"}
+{"question_id": 19, "text": "문화적, 사회적, 경제적 요인이 사람들의 음식 선택에 어떤 영향을 미치며, 이러한 지식을 어떻게 더 건강한 식단을 촉진하는 데 사용할 수 있을까요?", "category": "knowledge"}
+{"question_id": 20, "text": "자연 선택의 과정과 그것이 종의 진화와 적응에 어떻게 기여하는지 설명하세요.", "category": "knowledge"}
+{"question_id": 21, "text": "왕실 연회에서 중세 기사로 자신을 소개한다면 어떻게 소개하시겠습니까?", "category": "roleplay"}
+{"question_id": 22, "text": "해적 선장이라면 선원들에게 숨겨진 보물을 찾도록 동기를 부여하기 위해 어떤 말을 하겠어요?", "category": "roleplay"}
+{"question_id": 23, "text": "셰익스피어의 등장인물이라면 독백을 통해 누군가를 향한 사랑을 어떻게 표현하겠어요?", "category": "roleplay"}
+{"question_id": 24, "text": "슈퍼히어로로서 호기심 많은 어린이에게 자신의 기원 이야기를 어떻게 설명하시겠어요?", "category": "roleplay"}
+{"question_id": 25, "text": "여러분이 3000년에서 온 시간 여행자라고 상상해 보세요. 사람들에게 어떤 기술 발전에 대해 이야기하고 싶으신가요?", "category": "roleplay"}
+{"question_id": 26, "text": "스포츠 해설자가 되어 챔피언 결정전 경기의 마지막 순간에 승리한 플레이를 설명하세요.", "category": "roleplay"}
+{"question_id": 27, "text": "세계적으로 유명한 셰프가 된 척하세요. 심사위원단에게 자신의 시그니처 요리를 어떻게 설명하시겠습니까?", "category": "roleplay"}
+{"question_id": 28, "text": "당신은 에베레스트 산 정상에 도달한 산악인입니다. 여러분의 감정과 정상에서 바라본 경치를 묘사하세요.", "category": "roleplay"}
+{"question_id": 29, "text": "화성의 우주 식민지 주민으로서 일상 생활과 다른 행성에서 생활하며 직면하는 도전에 대해 설명하세요.", "category": "roleplay"}
+{"question_id": 30, "text": "포스트 아포칼립스 세계의 캐릭터가 된 것처럼 행동하세요. 생존 방법과 만나는 동맹을 묘사하세요.", "category": "roleplay"}
+{"question_id": 31, "text": "레스토랑이 현지인들에게 인기가 있는지 또는 주로 관광객을 유치하는지 어떻게 확인할 수 있으며, 이 정보가 유용한 이유는 무엇인가요?", "category": "common-sense"}
+{"question_id": 32, "text": "누군가가 실제로는 혼란스럽거나 정보가 없는데도 주제나 대화를 이해하는 척하고 있다는 것을 암시하는 미묘한 단서에는 어떤 것이 있나요?", "category": "common-sense"}
+{"question_id": 33, "text": "", "category": "common-sense"}
+{"question_id": 34, "text": "상대방이 진정으로 대화에 관심이 있는지 아니면 단순히 예의를 갖추기 위한 것인지 어떻게 판단할 수 있을까요?", "category": "common-sense"}
+{"question_id": 35, "text": "가격이 더 비싸더라도 대형 체인점 대신 현지인이 운영하는 소규모 업체에서 쇼핑하는 것을 선호하는 이유는 무엇일까요?", "category": "common-sense"}
+{"question_id": 36, "text": "작성자나 게시자의 평판에만 의존하지 않고 뉴스 기사나 블로그 게시물과 같은 정보 출처의 신뢰도를 어떻게 평가할 수 있나요?", "category": "common-sense"}
+{"question_id": 37, "text": "공포 영화를 보거나 롤러코스터를 타는 등 공포를 느끼는 것을 즐기는 사람이 있는 반면, 이러한 경험을 피하는 사람도 있는 이유는 무엇일까요?", "category": "common-sense"}
+{"question_id": 38, "text": "사회적 상황에서 다른 사람들의 행동을 관찰하면 어떻게 문화적 규범과 기대에 대한 단서를 얻을 수 있을까요?", "category": "common-sense"}
+{"question_id": 39, "text": "우주를 탐사해야 할 도덕적 의무가 있을까요, 아니면 지구의 문제 해결에 우선 집중해야 할까요?", "category": "common-sense"}
+{"question_id": 40, "text": "자동화가 점점 더 보편화되고 있는 세상에서 일자리 창출과 기술 발전 중 어느 것이 더 중요할까요?", "category": "common-sense"}
+{"question_id": 41, "text": "평균적으로 사람은 일생 동안 몇 번이나 눈을 깜빡일까요? 답을 설명해 보세요. 독자가 추론을 단계별로 따라갈 수 있도록 설명해야 합니다.", "category": "fermi"}
+{"question_id": 42, "text": "소금 한 알에는 몇 개의 원자가 있을까요? 답을 설명해 보세요. 독자가 추론 과정을 단계별로 따라갈 수 있도록 설명해야 합니다.", "category": "fermi"}
+{"question_id": 43, "text": "지구상에서 하루에 몇 번의 번개가 발생하나요? 답을 설명해 보세요. 독자가 추론 과정을 단계별로 따라갈 수 있도록 설명해야 합니다.", "category": "fermi"}
+{"question_id": 44, "text": "영화 \"업\"에서처럼 집을 들어 올리려면 몇 개의 풍선이 필요할까요? 답을 설명해 보세요. 설명은 독자가 단계별로 추론을 따라갈 수 있도록 해야 합니다.", "category": "fermi"}
+{"question_id": 45, "text": "1분에 전 세계적으로 전송되는 문자 메시지는 몇 개인가요? 답을 설명해 보세요. 독자가 추론을 단계별로 따라갈 수 있도록 설명해야 합니다.", "category": "fermi"}
+{"question_id": 46, "text": "지구상에서 매일 몇 개의 단어를 사용하나요? 답을 설명해 보세요. 독자가 추론을 단계별로 따라갈 수 있도록 설명해야 합니다.", "category": "fermi"}
+{"question_id": 47, "text": "일반적인 겨울에는 몇 개의 눈송이가 내릴까요? 답을 설명해 보세요. 독자가 추론 과정을 단계별로 따라갈 수 있도록 설명해야 합니다.", "category": "fermi"}
+{"question_id": 48, "text": "지금까지 쓰여진 모든 책의 페이지 수는 몇 페이지인가요? 답을 설명해 보세요. 설명은 독자가 추론을 단계별로 따라갈 수 있도록 해야 합니다.", "category": "fermi"}
+{"question_id": 49, "text": "지구는 생명이 시작된 이래로 태양 주위를 몇 번이나 돌았나요? 답을 설명해 보세요. 독자가 추론을 단계별로 따라갈 수 있도록 설명해야 합니다.", "category": "fermi"}
+{"question_id": 50, "text": "역사상 얼마나 많은 노래가 녹음되었나요? 답을 설명해 보세요. 독자가 추론을 단계별로 따라갈 수 있도록 설명해야 합니다.", "category": "fermi"}
+{"question_id": 51, "text": "인터넷이 르네상스 시대에 발명되었다면 어땠을까요?", "category": "counterfactual"}
+{"question_id": 52, "text": "아즈텍이 스페인 정복자들을 성공적으로 격퇴했다면 어땠을까요?", "category": "counterfactual"}
+{"question_id": 53, "text": "14세기에 흑사병이 발생하지 않았다면 어땠을까요?", "category": "counterfactual"}
+{"question_id": 54, "text": "만약 아이작 뉴턴이 물리학이 아닌 생물학에 집중했다면 어땠을까요?", "category": "counterfactual"}
+{"question_id": 55, "text": "비틀즈가 밴드를 결성하지 않았다면 어땠을까요?", "category": "counterfactual"}
+{"question_id": 56, "text": "만약 앨런 튜링이 2차 세계대전 중에 에니그마 암호를 해독하지 않았다면 어땠을까요?", "category": "counterfactual"}
+{"question_id": 57, "text": "수에즈 운하가 건설되지 않았다면 어떻게 되었을까요?", "category": "counterfactual"}
+{"question_id": 58, "text": "마야 문명이 미스터리하게 붕괴되지 않았다면 어땠을까요?", "category": "counterfactual"}
+{"question_id": 59, "text": "크리스토퍼 콜럼버스가 아메리카 대륙을 발견하지 못했다면 어떻게 되었을까요?", "category": "counterfactual"}
+{"question_id": 60, "text": "빈센트 반 고흐가 생전에 성공한 예술가였다면 어땠을까요?", "category": "counterfactual"}
+{"question_id": 61, "text": "텍스트 파일을 한 줄씩 읽고 파일에서 특정 단어의 발생 횟수를 세는 C++ 프로그램을 개발하세요.", "category": "coding"}
+{"question_id": 62, "text": "동적 프로그래밍을 사용하여 두 입력 문자열의 가장 긴 공통 수열을 구하는 파이썬 함수를 구현합니다.", "category": "coding"}
+{"question_id": 63, "text": "파이썬에서 정규식을 구현하여 이메일 주소의 유효성을 검사합니다.", "category": "coding"}
+{"question_id": 64, "text": "동적 프로그래밍을 사용하여 n번째 피보나치 수를 구하는 프로그램을 작성합니다.", "category": "coding"}
+{"question_id": 65, "text": "정렬된 배열에서 특정 요소를 찾기 위한 이진 검색 알고리즘을 구현합니다.", "category": "coding"}
+{"question_id": 66, "text": "파이썬에서 두 개의 스택을 사용하여 큐 데이터 구조를 구현합니다.", "category": "coding"}
+{"question_id": 67, "text": "추가 데이터 구조를 사용하지 않고 두 배열의 공통 요소를 찾는 프로그램을 구현합니다.", "category": "coding"}
+{"question_id": 68, "text": "f(x) = 5x^3 - 2x + 3이 주어졌을 때, f(2)의 값을 구합니다.", "category": "math"}
+{"question_id": 69, "text": "3x + 10 = 5(x - 2) 방정식에서 x를 풉니다.", "category": "math"}
+{"question_id": 70, "text": "선분의 끝점이 (2, -2)와 (10, 4)인 경우 선분의 길이는 얼마인가요?", "category": "math"}
+{"question_id": 71, "text": "합작 투자를 제안하는 잠재적 비즈니스 파트너에게 공식적인 이메일을 작성하는 데 도움을 줄 수 있나요?", "category": "writing"}
+{"question_id": 72, "text": "현재 고용주에게 사직서를 작성하는 데 도움을 주면서 좋은 조건으로 퇴사하고 제공된 기회에 감사를 표할 수 있나요?", "category": "writing"}
+{"question_id": 73, "text": "적절한 형식을 사용하여 컴퓨터 과학 분야의 명문 대학원 프로그램에 지원하는 학생을 위한 공식 추천서를 작성하세요.", "category": "writing"}
+{"question_id": 74, "text": "고객에게 새로운 소프트웨어 솔루션을 알릴 수 있는 매력적인 제품 출시 발표 이메일을 작성하세요.", "category": "writing"}
+{"question_id": 75, "text": "주문 지연을 경험한 고객에게 사과 이메일을 작성하고 문제가 해결되었다는 확신을 줍니다.", "category": "writing"}
+{"question_id": 76, "text": "재즈의 역사와 문화적 중요성을 탐구하는 YouTube 동영상 대본을 작성하세요.", "category": "writing"}
+{"question_id": 77, "text": "최근 하와이 여행에 대한 매력적인 여행 블로그 포스팅을 작성하여 문화 체험과 꼭 가봐야 할 명소를 소개하세요.", "category": "writing"}
+{"question_id": 78, "text": "최근 개봉한 공상 과학 영화에 대한 매력적인 영화 리뷰를 작성하여 줄거리, 등장인물, 특수 효과에 대해 논의하세요.", "category": "writing"}
+{"question_id": 79, "text": "스트리밍 플랫폼이 음악 산업에 미치는 영향에 대해 논의하는 에피소드를 위한 팟캐스트 스크립트를 구성합니다.", "category": "writing"}
+{"question_id": 80, "text": "오케스트라의 공연과 전반적인 관객 경험에 대해 논의하는 교향악단 콘서트 후기를 작성하세요.", "category": "writing"}
