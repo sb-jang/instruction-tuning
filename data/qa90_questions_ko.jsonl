@@ -1,0 +1,90 @@
+{"question_id": 0, "image": "000000441147.jpg", "text": "이미지에 있는 두 여행 가방의 색상은 무엇인가요?", "category": "conv"}
+{"question_id": 1, "image": "000000441147.jpg", "text": "포괄적이고 상세한 방식으로 이미지를 분석합니다.", "category": "detail"}
+{"question_id": 2, "image": "000000441147.jpg", "text": "이 여행 가방을 가치 있게 만들 수 있는 잠재적 요인은 무엇일까요?", "category": "complex"}
+{"question_id": 3, "image": "000000353536.jpg", "text": "이미지 속 테이블의 주요 개체는 무엇인가요?", "category": "conv"}
+{"question_id": 4, "image": "000000353536.jpg", "text": "다음 이미지를 설명합니다.", "category": "detail"}
+{"question_id": 5, "image": "000000353536.jpg", "text": "최근 이 테이블 주변에서 어떤 활동이 있었을 수 있으며 그 여파는 어떻게 될까요?", "category": "complex"}
+{"question_id": 6, "image": "000000506095.jpg", "text": "이미지의 주요 초점은 무엇인가요?", "category": "conv"}
+{"question_id": 7, "image": "000000506095.jpg", "text": "이 사진의 내용은 무엇인가요?", "category": "detail"}
+{"question_id": 8, "image": "000000506095.jpg", "text": "고양이가 노트북에 관심을 보이는 이유는 무엇일까요?", "category": "complex"}
+{"question_id": 9, "image": "000000514915.jpg", "text": "이미지 속 개는 어떤 색인가요?", "category": "conv"}
+{"question_id": 10, "image": "000000514915.jpg", "text": "다음 이미지를 설명합니다.", "category": "detail"}
+{"question_id": 11, "image": "000000514915.jpg", "text": "개가 왜 이 위치에서 바닥에 누워있는 것을 선택했을까요?", "category": "complex"}
+{"question_id": 12, "image": "000000056013.jpg", "text": "수하물 가방이 있는 카트는 어디에 있나요?", "category": "conv"}
+{"question_id": 13, "image": "000000056013.jpg", "text": "다음 이미지를 설명합니다.", "category": "detail"}
+{"question_id": 14, "image": "000000056013.jpg", "text": "직원들이 로비에서 수하물을 처리할 때 어떤 어려움을 겪을 수 있나요?", "category": "complex"}
+{"question_id": 15, "image": "000000408439.jpg", "text": "이미지에 보이는 수역은 무엇인가요?", "category": "conv"}
+{"question_id": 16, "image": "000000408439.jpg", "text": "제공된 사진의 요소에 대해 자세히 설명해 주시겠어요?", "category": "detail"}
+{"question_id": 17, "image": "000000408439.jpg", "text": "열차가 이렇게 경치 좋은 노선을 운행하는 이유는 무엇인가요?", "category": "complex"}
+{"question_id": 18, "image": "000000164255.jpg", "text": "이미지의 주요 개체는 무엇인가요?", "category": "conv"}
+{"question_id": 19, "image": "000000164255.jpg", "text": "이 스냅샷에서 무슨 일이 일어나고 있다고 생각하시나요?", "category": "detail"}
+{"question_id": 20, "image": "000000164255.jpg", "text": "해변에서 우산은 어떤 용도로 사용되나요?", "category": "complex"}
+{"question_id": 21, "image": "000000034096.jpg", "text": "집의 건축은 어느 단계에 있나요?", "category": "conv"}
+{"question_id": 22, "image": "000000034096.jpg", "text": "이 사진의 내용은 무엇인가요?", "category": "detail"}
+{"question_id": 23, "image": "000000034096.jpg", "text": "현재 상태의 주택 건설에 잠재적인 장애물이 될 수 있는 것은 무엇인가요?", "category": "complex"}
+{"question_id": 24, "image": "000000385873.jpg", "text": "이미지에 피자가 몇 개 있나요?", "category": "conv"}
+{"question_id": 25, "image": "000000385873.jpg", "text": "이미지의 시각적 콘텐츠를 매우 자세하게 설명합니다.", "category": "detail"}
+{"question_id": 26, "image": "000000385873.jpg", "text": "피자를 여러 사람에게 공평하게 나눌 때 직면할 수 있는 문제는 무엇일까요?", "category": "complex"}
+{"question_id": 27, "image": "000000367571.jpg", "text": "상자 안에 도넛이 몇 개 들어 있나요?", "category": "conv"}
+{"question_id": 28, "image": "000000367571.jpg", "text": "주어진 이미지에 대한 자세한 설명을 작성합니다.", "category": "detail"}
+{"question_id": 29, "image": "000000367571.jpg", "text": "이 도넛 한 상자에는 어떤 독특한 맛의 조합이 있을까요?", "category": "complex"}
+{"question_id": 30, "image": "000000319432.jpg", "text": "이미지 속 남자는 무엇을 하고 있나요?", "category": "conv"}
+{"question_id": 31, "image": "000000319432.jpg", "text": "이 이미지의 주요 특징을 설명해 주시겠어요?", "category": "detail"}
+{"question_id": 32, "image": "000000319432.jpg", "text": "남자가 옷걸이에 옷을 걸고 있는 이유는 무엇일까요?", "category": "complex"}
+{"question_id": 33, "image": "000000225738.jpg", "text": "이미지에 몇 마리의 기린이 그려져 있나요?", "category": "conv"}
+{"question_id": 34, "image": "000000225738.jpg", "text": "주어진 이미지에 대한 자세한 설명을 작성합니다.", "category": "detail"}
+{"question_id": 35, "image": "000000225738.jpg", "text": "기린들이 같은 나무 근처에 모여 있는 이유는 무엇일까요?", "category": "complex"}
+{"question_id": 36, "image": "000000092109.jpg", "text": "이미지의 주요 초점은 무엇인가요?", "category": "conv"}
+{"question_id": 37, "image": "000000092109.jpg", "text": "이 사진의 내용은 무엇인가요?", "category": "detail"}
+{"question_id": 38, "image": "000000092109.jpg", "text": "이 이미지에서 기린의 서식지에 대해 유추할 수 있는 것은 무엇인가요?", "category": "complex"}
+{"question_id": 39, "image": "000000506483.jpg", "text": "아트 설치물에는 어떤 종류의 물건이 포함되나요?", "category": "conv"}
+{"question_id": 40, "image": "000000506483.jpg", "text": "이미지의 시각적 콘텐츠를 매우 자세하게 설명합니다.", "category": "detail"}
+{"question_id": 41, "image": "000000506483.jpg", "text": "예술 작품이 사람들 간의 상호작용을 어떻게 장려할 수 있을까요?", "category": "complex"}
+{"question_id": 42, "image": "000000097131.jpg", "text": "이미지의 주요 초점은 무엇인가요?", "category": "conv"}
+{"question_id": 43, "image": "000000097131.jpg", "text": "제공된 사진의 요소에 대해 자세히 설명해 주시겠어요?", "category": "detail"}
+{"question_id": 44, "image": "000000097131.jpg", "text": "차량이 도로변에 주차된 이유는 무엇인가요?", "category": "complex"}
+{"question_id": 45, "image": "000000052312.jpg", "text": "이미지 속 노인의 얼굴에서 특이한 점은 무엇인가요?", "category": "conv"}
+{"question_id": 46, "image": "000000052312.jpg", "text": "장면에서 무슨 일이 일어나고 있나요?", "category": "detail"}
+{"question_id": 47, "image": "000000052312.jpg", "text": "이 남자의 특이한 얼굴 장식은 어떤 메시지를 전달할 수 있을까요?", "category": "complex"}
+{"question_id": 48, "image": "000000258285.jpg", "text": "이미지에 몇 대의 비행기가 표시되나요?", "category": "conv"}
+{"question_id": 49, "image": "000000258285.jpg", "text": "이 이미지에서 어떤 일이 일어나고 있나요?", "category": "detail"}
+{"question_id": 50, "image": "000000258285.jpg", "text": "비행기의 활동이 조류에 어떤 환경적 영향을 미칠 수 있나요?", "category": "complex"}
+{"question_id": 51, "image": "000000081552.jpg", "text": "고양이가 빨간 소파에서 뭘 하고 있나요?", "category": "conv"}
+{"question_id": 52, "image": "000000081552.jpg", "text": "주어진 이미지에 대한 자세한 설명을 작성합니다.", "category": "detail"}
+{"question_id": 53, "image": "000000081552.jpg", "text": "고양이가 잠자리를 이곳으로 선택하게 된 이유는 무엇일까요?", "category": "complex"}
+{"question_id": 54, "image": "000000066144.jpg", "text": "이미지에서 정지 표지판 옆에 주차된 차량의 종류는 무엇인가요?", "category": "conv"}
+{"question_id": 55, "image": "000000066144.jpg", "text": "이미지의 시각적 콘텐츠를 매우 자세하게 설명합니다.", "category": "detail"}
+{"question_id": 56, "image": "000000066144.jpg", "text": "해당 지역의 교통 상황에 대해 무엇을 유추할 수 있나요?", "category": "complex"}
+{"question_id": 57, "image": "000000203629.jpg", "text": "이미지 속 남자는 무엇을 하고 있나요?", "category": "conv"}
+{"question_id": 58, "image": "000000203629.jpg", "text": "이 이미지의 주요 특징을 설명해 주시겠어요?", "category": "detail"}
+{"question_id": 59, "image": "000000203629.jpg", "text": "통화 중 남성이 엄지손가락을 치켜세우는 제스처를 취하는 이유는 무엇일까요?", "category": "complex"}
+{"question_id": 60, "image": "000000109532.jpg", "text": "이미지 속 개는 어떤 품종인가요?", "category": "conv"}
+{"question_id": 61, "image": "000000109532.jpg", "text": "이 그림의 핵심 요소는 무엇인가요?", "category": "detail"}
+{"question_id": 62, "image": "000000109532.jpg", "text": "반려견이 객실에서 편안하게 지낼 수 있도록 반려견의 주인이 취할 수 있는 조치는 무엇인가요?", "category": "complex"}
+{"question_id": 63, "image": "000000431165.jpg", "text": "이미지 속 코끼리의 색은 무엇인가요?", "category": "conv"}
+{"question_id": 64, "image": "000000431165.jpg", "text": "이 스냅샷에서 무슨 일이 일어나고 있다고 생각하시나요?", "category": "detail"}
+{"question_id": 65, "image": "000000431165.jpg", "text": "이 환경에서 아기 코끼리에게 잠재적으로 문제가 될 수 있는 것은 무엇인가요?", "category": "complex"}
+{"question_id": 66, "image": "000000020650.jpg", "text": "주황색 접시에는 어떤 종류의 음식이 있나요?", "category": "conv"}
+{"question_id": 67, "image": "000000020650.jpg", "text": "이 그림의 핵심 요소는 무엇인가요?", "category": "detail"}
+{"question_id": 68, "image": "000000020650.jpg", "text": "개인의 식단 선택에 대해 무엇을 유추할 수 있나요?", "category": "complex"}
+{"question_id": 69, "image": "000000205183.jpg", "text": "이미지에 어떤 종류의 새가 그려져 있나요?", "category": "conv"}
+{"question_id": 70, "image": "000000205183.jpg", "text": "이 이미지에서 어떤 일이 일어나고 있나요?", "category": "detail"}
+{"question_id": 71, "image": "000000205183.jpg", "text": "오리가 포장된 길을 걷는 동안 어떤 어려움에 직면할 수 있을까요?", "category": "complex"}
+{"question_id": 72, "image": "000000210299.jpg", "text": "아이가 자전거를 타는 동안 안전 장비를 착용하고 있나요?", "category": "conv"}
+{"question_id": 73, "image": "000000210299.jpg", "text": "제공된 사진의 요소에 대해 자세히 설명해 주시겠어요?", "category": "detail"}
+{"question_id": 74, "image": "000000210299.jpg", "text": "어린 소년의 예방 조치가 주목할 만한 이유는 무엇인가요?", "category": "complex"}
+{"question_id": 75, "image": "000000515716.jpg", "text": "이미지에 몇 명의 사람이 표시되나요?", "category": "conv"}
+{"question_id": 76, "image": "000000515716.jpg", "text": "이 이미지에서 어떤 일이 일어나고 있나요?", "category": "detail"}
+{"question_id": 77, "image": "000000515716.jpg", "text": "이 모임의 이유는 무엇일까요?", "category": "complex"}
+{"question_id": 78, "image": "000000460149.jpg", "text": "이미지에 등장하는 주요 개체는 무엇인가요?", "category": "conv"}
+{"question_id": 79, "image": "000000460149.jpg", "text": "다음 이미지를 설명합니다.", "category": "detail"}
+{"question_id": 80, "image": "000000460149.jpg", "text": "이 길을 걷고 있다고 가정할 때, 시간이나 보도가 어느 방향으로 이어지는지 어떻게 알 수 있을까요?", "category": "complex"}
+{"question_id": 81, "image": "000000293505.jpg", "text": "오토바이나 스쿠터를 타고 있나요?", "category": "conv"}
+{"question_id": 82, "image": "000000293505.jpg", "text": "이미지의 시각적 콘텐츠를 매우 자세하게 설명합니다.", "category": "detail"}
+{"question_id": 83, "image": "000000293505.jpg", "text": "이 상황에서 오토바이를 탄 여성은 어떤 어려움을 겪을 수 있을까요?", "category": "complex"}
+{"question_id": 84, "image": "000000525439.jpg", "text": "이미지에서 스케이트보드의 위치는 어디인가요?", "category": "conv"}
+{"question_id": 85, "image": "000000525439.jpg", "text": "제공된 사진의 요소에 대해 자세히 설명해 주시겠어요?", "category": "detail"}
+{"question_id": 86, "image": "000000525439.jpg", "text": "이 순간 이전에는 어떤 일이 있었을까요?", "category": "complex"}
+{"question_id": 87, "image": "000000534270.jpg", "text": "남자와 여자는 어떤 종류의 모자를 쓰고 있나요?", "category": "conv"}
+{"question_id": 88, "image": "000000534270.jpg", "text": "이 이미지의 주요 특징을 설명해 주시겠어요?", "category": "detail"}
+{"question_id": 89, "image": "000000534270.jpg", "text": "비 오는 날 우산 모자는 커플에게 어떤 이점을 제공하나요?", "category": "complex"}
